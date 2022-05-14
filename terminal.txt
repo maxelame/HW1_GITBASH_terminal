@@ -79,12 +79,12 @@ i
 17. Выйти из папки inner_dir_1													$ cd ..
 
 18. Вывести содержимое файла tf_3.txt в терминал.										$ cat inner_dir_1/tf_3.txt
-123
-234
-456
-789
-qqq
-rrr
+111
+222
+333
+444
+fff
+ggg
 the second 2
 the sec 2
 the SeCoNd 2
