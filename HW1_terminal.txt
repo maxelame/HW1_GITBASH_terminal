@@ -1,4 +1,4 @@
-HW_1.  Lex Mirrel
+HW_1.  Maksim Kunkevich
 
 1.Посмотреть где я			pwd
 2.Создать папку				mkdir folder_1
