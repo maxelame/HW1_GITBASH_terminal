@@ -61,7 +61,7 @@ i
 :set number
 i
   1 rrr
-  2 ddd
+  2 ttt
   3 ccc
   4 sss
   5 rrr
