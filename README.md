@@ -9,7 +9,8 @@ pwd
 ```
 ###2.Создать папку				
 ```mkdir folder_1```
-### 3.Зайти в папку				cd  folder_1
+### 3.Зайти в папку				
+```cd  folder_1```
 ### 4.Создать 3 папки				mkdir f1 f2 f3
 ### 5.Зайти в любую папку			cd d:/course_qa
 ### 6.Создать 5 файлов (3 txt, 2 json)	touch 1.txt 2.txt 3.txt 4.json 5.json
